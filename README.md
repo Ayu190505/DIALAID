@@ -49,7 +49,7 @@ Elderly falls are a major health concern, often leading to severe injuries and d
 
 - 🧠 **ML Fall Detection (95% Accuracy):** Built with an ensemble of **CatBoost**, **Random Forest**, and **XGBoost** trained on gyroscope and accelerometer data.
 - ⚙️ **Optimized FFT Feature Extraction:** Uses **NumPy** and **Pandas** for real-time signal analysis, minimizing false positives.
-- 📲 **Swift + CoreMotion:** Leverages iOS's **CoreMotion API** for motion tracking with sub-50ms response time and **CoreML** to integrate ML model response
+- 📲 **Swift + CoreMotion + CoreML:** Leverages iOS's **CoreMotion API** for motion tracking with sub-50ms response time and **CoreML** to integrate ML model response
 - ☁️ **Data Storage:** Logs fall data to **Firebase**, hosted on **Google Cloud Platform** (GCP), managing over **10,000+ fall records**.
 
 ---
