@@ -8,7 +8,7 @@
 
 ### 🔐 Login & Register
 
-<p align="center">
+<p float="left">
   <img src="./assets/dialaid_login.png" width="300" />
   <img src="./assets/dialaid_register.png" width="300" />
 </p>
@@ -17,7 +17,7 @@
 
 ### 🧾 Add Emergency Contact Details
 
-<p align="center">
+<p float="left">
   <img src="./assets/dialaid_emergency.png" width="300" />
 </p>
 
@@ -25,7 +25,7 @@
 
 ### 🚨 Fall Triggered Alert
 
-<p align="center">
+<p float="left">
   <img src="./assets/dialaid_fall_detected.png" width="300" />
 </p>
 
@@ -33,7 +33,7 @@
 
 ### 🤖 ML Model Accuracy Overview
 
-<p align="center">
+<p float="left">
   <img src="./assets/dialaid_ml_model.png" width="500" />
 </p>
 
